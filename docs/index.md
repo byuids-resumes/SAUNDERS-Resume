@@ -31,7 +31,7 @@ __Teaching Assistant__, BYU-I
 
 
 `2014-2016`
-__Service Missionary__, Fresno, CA
+__Missionary__, Fresno, CA
 
 
 
