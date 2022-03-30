@@ -4,6 +4,7 @@ title: Ryan Saunders' Resume
 ---
 # Ryan Saunders
 Studying Computer Science at Brigham Young University - Idaho
+# You need to add your own links for github and linked in
 
 <div id="webaddress">
 <a href="sau19006@byui.edu">sau19006@byui.edu</a>
