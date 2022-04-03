@@ -36,10 +36,11 @@ __Missionary - The Church of Jesus Christ of Latter-day Saints__, Fresno, CA `Ja
 
 ## Work Experience
 __Teaching Assistant - Programming with Classes__, BYU-I `August 2021 - January 2022`
-- Helped students understand object-oriented programming through the use of classes.
+- Helped students understand object-oriented programming through the use of classes
+- Assisted in grading and providing meaningful feedback to students
 
 __Front-End Assitant__, Costco `August 2021 - January 2022`
-- Ensured members received excellent customer service and maintained tidiness of warehouse and goods.
+- Ensured members received excellent customer service and maintained tidiness of warehouse and goods
 
 __Supply Clerk__, Wilkinson Student Center – Brigham Young University `January 2019 – November 2019`
 - Cleaned and maintained custodial equipment
