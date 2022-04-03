@@ -14,27 +14,41 @@ Studying Computer Science at Brigham Young University - Idaho
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-__Brigham Young University - Idaho__, Rexburg, ID, `Expected Graduation - December 2022` 
-- Computer Science
-- 3.91 Major GPA
+__Brigham Young University - Idaho__, Rexburg, ID `Janurary 2020 - Present` 
+- Major: Computer Science
+- Major GPA: 3.91
+- Expected Graduation: December 2022
 
 
 ## Skills
 - Python
-- c++
-- html/css
+- C++
+- HTML/CSS
+- JavaScript
 
 ## Service
 <!-- I would Seperate out the Work History from the Service -->
-__Missionary - The Church of Jesus Christ of Latter-day Saints__, Fresno, CA, `2014-2016`
+__Missionary - The Church of Jesus Christ of Latter-day Saints__, Fresno, CA `January 2014 - January 2016`
 
 
 ## Work Experience
-__Teaching Assistant - Programming with Classes__, BYU-I , `August 2021 - January 2022`
+__Teaching Assistant - Programming with Classes__, BYU-I `August 2021 - January 2022`
 - Helped students understand object-oriented programming through the use of classes.
 
-__Front-End Assitant__, Costco , `August 2021 - January 2022`
+__Front-End Assitant__, Costco `August 2021 - January 2022`
 - Ensured members received excellent customer service and maintained tidiness of warehouse and goods.
+
+__SUPPLY CLERK__, Wilkinson Student Center – Brigham Young University `January 2019 – November 2019`
+• Cleaned and maintained custodial equipment
+• Kept custodial closets stocked and organized
+
+__General Staff Member__, Tower Cleaners - CRDN `April 2018 – August 2018`
+• Dry-cleaning pickup and delivery, sorting of clothing to be cleaned
+• Collection of textiles and electronics for cleaning after a disaster
+
+__Custodial Crew Member__, Wilkinson Student Center – Brigham Young University `Fall 2017 – April 2018`
+• Worked with a team of other students to keep the Wilkinson Student Center clean and organized
+• Setup for events in an efficient manner while working with patrons to ensure their needs were met
 
 <!-- ### Footer
 
