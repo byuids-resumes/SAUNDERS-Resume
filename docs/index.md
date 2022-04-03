@@ -29,6 +29,9 @@ __Brigham Young University - Idaho__, Rexburg, ID `Janurary 2020 - Present`
 ## Service
 <!-- I would Seperate out the Work History from the Service -->
 __Missionary - The Church of Jesus Christ of Latter-day Saints__, Fresno, CA `January 2014 - January 2016`
+- Learned how to effectively communicate and counsel with others
+- Learned to set effective goals and work towards achieving them
+- Acquired the ability to learn and adapt to rapidly changing situations
 
 
 ## Work Experience
@@ -38,17 +41,20 @@ __Teaching Assistant - Programming with Classes__, BYU-I `August 2021 - January 
 __Front-End Assitant__, Costco `August 2021 - January 2022`
 - Ensured members received excellent customer service and maintained tidiness of warehouse and goods.
 
-__SUPPLY CLERK__, Wilkinson Student Center – Brigham Young University `January 2019 – November 2019`
-• Cleaned and maintained custodial equipment
-• Kept custodial closets stocked and organized
+__Supply Clerk__, Wilkinson Student Center – Brigham Young University `January 2019 – November 2019`
+- Cleaned and maintained custodial equipment
+- Kept custodial closets stocked and organized
 
 __General Staff Member__, Tower Cleaners - CRDN `April 2018 – August 2018`
-• Dry-cleaning pickup and delivery, sorting of clothing to be cleaned
-• Collection of textiles and electronics for cleaning after a disaster
+- Dry-cleaning pickup and delivery, sorting of clothing to be cleaned
+- Collection of textiles and electronics for cleaning after a disaster
 
 __Custodial Crew Member__, Wilkinson Student Center – Brigham Young University `Fall 2017 – April 2018`
-• Worked with a team of other students to keep the Wilkinson Student Center clean and organized
-• Setup for events in an efficient manner while working with patrons to ensure their needs were met
+- Worked with a team of other students to keep the Wilkinson Student Center clean and organized
+- Setup for events in an efficient manner while working with patrons to ensure their needs were met
+
+## Accomplishments
+Eagle Scout - Boy Scouts of America
 
 <!-- ### Footer
 
